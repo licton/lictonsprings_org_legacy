@@ -1,0 +1,68 @@
+table.page{
+  border: 2px solid black;
+  font-family:verdana, arial, helvetica, sans-serif, monospace;
+  font-size: 18px;
+}
+
+table.page thead tr{
+  font-size: 20px;
+  text-align: center;
+}
+
+table.page tr {
+  font-size: 18px;
+  background-color: white;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+table.page td {
+  outline: 2px solid black;
+  padding: 15px;
+  font-size: 18px;
+  background-color: white;
+}
+
+h2 {
+  font-family:verdana, arial, helvetica, sans-serif, monospace;
+  font-size: 20
+}
+
+p, li {
+  font-family:verdana, arial, helvetica, sans-serif, monospace;
+  font-size: 18
+}
+
+body {
+  background-color: #ffffcc; 
+}
+
+#header_table {
+  border: 0;
+  padding: 0;
+  border-spacing: 0;
+  height: 100;
+  width: 600;
+}
+
+#main_table {
+  border: 0;
+  padding: 0;
+  border-spacing: 0;
+  width: 100%
+}
+
+#border_cell {
+  vertical-align: top; 
+  background-color: #99cc99;
+  height: 100%;
+  width: 150px;
+  padding: 15px;
+}
+
+#content_cell {
+  vertical-align: top; 
+  background-color: #ffffcc;
+  height: 100%;
+  padding: 15px;
+}
